@@ -98,4 +98,4 @@ Keep these separate. `css/style.css` is the portal theme, so the bike homepage m
 
 ## Credits
 
-The rental portal and admin panel are adapted from the CarForYou car rental template. The libraries used are Bootstrap 3, jQuery, Font Awesome, Owl Carousel, Slick, DataTables, bootstrap-select, bootstrap-fileinput and Chart.js.
+The libraries used are Bootstrap 3, jQuery, Font Awesome, Owl Carousel, Slick, DataTables, bootstrap-select, bootstrap-fileinput and Chart.js.
